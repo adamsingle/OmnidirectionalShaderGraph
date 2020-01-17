@@ -1,0 +1,7 @@
+*.csproj
+*.sln
+.idea/
+Library/
+Temp/
+obj/
+Logs/
