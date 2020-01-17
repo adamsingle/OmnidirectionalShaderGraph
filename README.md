@@ -22,6 +22,8 @@ A directional light has no position. So there is no URP constant you can call on
 
 This project has no fancy graphics, just a simple example.
 
+![Scene View](GitImages/Orbiting.gif)
+
 It consists of an OmnidirectionalLight monobehaviour that is placed on the object in the scene that defines the lights position and a shadergraph that
 uses that position to calculate the light direction.
 
